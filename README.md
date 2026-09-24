@@ -8,3 +8,5 @@ componer el proyecto. Después lo que he hecho es un clon de dicho repositorio e
 del entorno de desarrollo de Visual Studio Code para por lo que pueda pasar, por eliminación accidental, tener una copia
 de seguridad de todos los archivos en un espacio seguro en el que no puedan caer en malas manos y en el que queden seguros. 
 Después en Visual Studio Code he sincronizado mi repositorio de GitHub con el entorno, y ahora puedo acceder de forma instantanea a los archivos y hacer todas las modificaciones que quiera en ellos. 
+
+Texto de prueba  
