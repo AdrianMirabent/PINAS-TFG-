@@ -11,3 +11,5 @@ Después en Visual Studio Code he sincronizado mi repositorio de GitHub con el e
 
 Texto de prueba.
 Texto de prueba. 
+
+| https://trello.com/b/BSm1umLG/tfg | Enlace al tablero Kanban de Trello |
