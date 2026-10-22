@@ -4,10 +4,10 @@ Memoria dedicada a los contenidos del Proyecto Intermodular de la FP superior de
 ## Kick-off
 | Contenido  |  Descripción  |
 | ---------- |  -----------  |
-| [Antepoyecto](/kick_off/base_anteproyecto_v3_Adrián_Mirabent_Landero.pdf) | Anteproyecto |
+| [Antepoyecto](/kick_off/base_anteproyecto_v3_Adrián_Mirabent_Landero.pdf) |
 
 ## Sprint 1
 | Contenido  |  Descripción  |
 | ---------- |  -----------  |
-| [Memoria Incremental v1.0](/sprint_1/Memoria_Incremental_v1.0_Adrian_Mirabent_Landero.pdf)| Memoria Incremental  |
-| [Prueba de Concepto](/sprint_1/Poc/Prueba_de_concepto_PoC_Adrian_Mirabent_Landero.pdf)| Prueba de Concepto  |
+| [Memoria Incremental v1.0](/sprint_1/Memoria_Incremental_v1.0_Adrian_Mirabent_Landero.pdf)| 
+| [Prueba de Concepto](/sprint_1/Poc/Prueba_de_concepto_PoC_Adrian_Mirabent_Landero.pdf)|
