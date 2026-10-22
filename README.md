@@ -1,5 +1,5 @@
 # Proyecto TFG
-Memoria dedicada a los contenidos del Proyecto Intermodular de la FP superior de Administración de Sistemas y Redes (ASIR).
+Memoria dedicada a los contenidos del Proyecto Intermodular del Grado Superior de Administración de Sistemas y Redes (ASIR).
 
 ## Kick-off
 | Contenido  |  
