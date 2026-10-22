@@ -1,2 +1,12 @@
 # Proyecto TFG
 Memoria dedicada a los contenidos del Proyecto Intermodular de la FP superior de Administración de Sistemas y Redes (ASIR).
+
+
+## Kick-off
+| Ejercicio  |  Descripción  |
+| ---------- |  -----------  |
+| [Actividad 0.1](/Tema_0/Actividad_0.1.md) | HTTP Introduction |
+| [Actividad 0.2](/Tema_0/Actividad_0.2.md) | UDP and TCP: Comparison of Transport Protocols |
+| [Actividad 0.3](/Tema_0/Actividad_0.3.md) | Práctica telnet/http |
+| [Actividad 0.4](/Tema_0/Actividad_0.4.md) | Usando cUrl |
+| [Actividad 0.5](/Tema_0/Actividad_0.5.md) | Proyecto servidor web|
