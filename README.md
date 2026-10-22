@@ -9,4 +9,4 @@ Memoria dedicada a los contenidos del Proyecto Intermodular de la FP superior de
 ## Sprint 1
 | Contenido  |  Descripción  |
 | ---------- |  -----------  |
-| [Actividad 0.1](/Tema_0/Actividad_0.1.md) |  |
+| [Memoria incremental v1.0](/sprint_1/Memoria Incremental v1.0.pdf) | Memoria Incremental  |
