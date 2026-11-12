@@ -9,3 +9,9 @@ variable "puerto_web" {
   type        = number
   default     = 8080
 }
+
+variable "subred_honeynet" {
+  description = "Subred de la red Docker de las trampas"
+  type        = string
+  default     = "172.30.0.0/24"
+}
